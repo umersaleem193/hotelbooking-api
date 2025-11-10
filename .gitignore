@@ -1,0 +1,9 @@
+# Ignore Visual Studio temp files
+.vs/
+bin/
+obj/
+*.user
+*.db
+*.mdf
+*.ldf
+*.Publish.xml
